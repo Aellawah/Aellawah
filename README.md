@@ -7,7 +7,4 @@
 - linkedin.com/in/abdallah-ellawah-20b14b92
 - Mobile : +971566446206
 
-<!---
-Aellawah/Aellawah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://komarev.com/ghpvc/?username=Aellawah&color=green&style=flat-square)
