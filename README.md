@@ -1,3 +1,9 @@
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Aellawah/count.svg" />
+</p>
+
 - 👋 Hi, I’m Abdallah
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning ✨ An academic diploma in Data science at Cairo university ✨
