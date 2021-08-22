@@ -10,9 +10,8 @@
 - 💞️ I’m looking to collaborate on Data Science projects 
 - 📫 Reach me on:
 -  Abdallahkhaledellawah@gmail.com
-- Mobile : +971566446206
 
-#### Find me in social media
+#### Find me on social media
 [![Github](https://img.shields.io/badge/-Github-black?style=flat&labelColor=black&logo=github&logoColor=white "Github")](https://github.com/Aellawah "Github")
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white "LinkedIn")](https://linkedin.com/in/abdallah-ellawah-20b14b92/ "LinkedIn")
 [![Facebook](https://img.shields.io/badge/-Facebook-informational?style=flat&labelColor=informational&logo=facebook&logoColor=white "Facebook")](https://www.facebook.com/abdallah.ellawah)
