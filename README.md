@@ -4,12 +4,16 @@
   <img src="https://profile-counter.glitch.me/Aellawah/count.svg" />
 </p>
 
-- I’m Abdallah
-- 👀 I am a Data Science enthusiaste
-- 🌱 I’m currently preparing ✨ A post graduate academic diploma (2 years) in Data science at Cairo university ✨
-- 💞️ I’m looking to collaborate on AI projects 
-- 📫 Reach me at:
+- I’m Abdallah :relaxed:  
+- 👀 I’m a Data science enthusiaste
+- ✨ I’m currently preparing an academic diploma in Data science at Cairo university ✨
+- I’m looking forward to collaborate on AI projects 💞️
+- 📫 Reach me on:
 -  Abdallahkhaledellawah@gmail.com
+
+
+![](https://komarev.com/ghpvc/?username=Aellawah&color=green)
+
 
 #### Find me on social media
 [![Github](https://img.shields.io/badge/-Github-black?style=flat&labelColor=black&logo=github&logoColor=white "Github")](https://github.com/Aellawah "Github")
