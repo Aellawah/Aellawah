@@ -12,8 +12,6 @@
 -  Abdallahkhaledellawah@gmail.com
 
 
-![](https://komarev.com/ghpvc/?username=Aellawah&color=green)
-
 
 #### Find me on social media
 [![Github](https://img.shields.io/badge/-Github-black?style=flat&labelColor=black&logo=github&logoColor=white "Github")](https://github.com/Aellawah "Github")
