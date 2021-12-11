@@ -5,9 +5,9 @@
 </p>
 
 - I’m Abdallah
-- 👀 I’m interested in Data science
+- 👀 I am a Data Science enthusiaste
 - 🌱 I’m currently preparing ✨ A post graduate academic diploma (2 years) in Data science at Cairo university ✨
-- 💞️ I’m looking to collaborate on Data Science projects 
+- 💞️ I’m looking to collaborate on AI projects 
 - 📫 Reach me at:
 -  Abdallahkhaledellawah@gmail.com
 
