@@ -5,7 +5,7 @@
 </p>
 
 - Welcome to my profile :relaxed:  
-- 👀 I’m a Data science enthusiaste
+- I’m a Data science enthusiaste 👀
 - ✨ I’m currently preparing an academic diploma in Data science at Cairo university ✨
 - I’m looking forward to collaborate on AI projects 💞️
 - 📫 Reach me on:
