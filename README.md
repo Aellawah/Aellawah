@@ -5,7 +5,7 @@
   
 </p>
 
-![alt text]<img src="https://github.com/Aellawah/Aellawah/blob/main/Abdallah%20El-lawah-logos_transparent.png" width="150" height="150">
+![alt text]<img src="https://github.com/Aellawah/Aellawah/blob/main/Abdallah%20El-lawah-logos_transparent.png" width="500" height="500">
 
 
 
