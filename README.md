@@ -8,7 +8,6 @@
 
 
 
-
 - Welcome to my profile :relaxed:  
 - I’m a Data science enthusiaste 👀
 - ✨ I’m currently preparing an academic diploma in Data science at Cairo university ✨
