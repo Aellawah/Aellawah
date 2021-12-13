@@ -4,7 +4,7 @@
   <img src="https://profile-counter.glitch.me/Aellawah/count.svg" />
   
 </p>
-![(Abdallah El-lawah-logos_transparent.png)
+[Abdallah El-lawah-logos_transparent.png]
 
 <p align="center">
 A Data Scientist who loves AI, Machine learning, Data analysis.<br>
