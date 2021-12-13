@@ -5,7 +5,7 @@
   
 </p>
 
-![alt text](https://github.com/Aellawah/Aellawah/blob/main/Abdallah%20El-lawah-logos_transparent.png)
+![alt text](https://github.com/Aellawah/Aellawah/blob/main/Abdallah%20El-lawah-logos_transparent.png =250x250)
 
 
 
