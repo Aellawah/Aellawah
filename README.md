@@ -2,7 +2,22 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Aellawah/count.svg" />
+  
 </p>
+![Abdallah El-lawah](https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg)
+
+<p align="center">
+A Data Scientist who loves AI, Machine learning, Data analysis.<br>
+<br>
+<a href="https://1a23.com">Portfolio Site</a>
+ · <a href="https://blog.1a23.com">Blog</a>
+ · <a href="https://twitter.com/blueset">Twitter</a>
+<br>
+<br>
+<br>
+<br>
+</p>
+
 
 - Welcome to my profile :relaxed:  
 - I’m a Data science enthusiaste 👀
