@@ -5,7 +5,7 @@
   
 </p>
 
-!![alt text](Abdallah El-lawah-logos_transparent.png)
+![alt text](Abdallah El-lawah-logos_transparent.png)
 
 
 
