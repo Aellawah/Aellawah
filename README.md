@@ -10,7 +10,7 @@
 
 
 - I’m Abdallah :relaxed:
-- I am a Data science enthusiaste 👀 
+- I’m a Data science enthusiaste 👀 
 - I’m currently preparing a post graduate academic diploma in Data science at Cairo university ✨
 - I’m looking forward to collaborate on AI projects 💞️
 - Reach me on:
